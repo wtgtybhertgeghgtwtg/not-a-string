@@ -1,0 +1,23 @@
+{
+  "author": {
+    "email": "wtgtybhertgeghgtwtg@gmail.com",
+    "name": "Matthew Fernando Garcia"
+  },
+  "description": "It's not a string.",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "name": "not-a-string",
+  "repository": "wtgtybhertgeghgtwtg/env-and-files",
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "1.0.0"
+}
